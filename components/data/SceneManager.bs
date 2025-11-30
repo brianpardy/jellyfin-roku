@@ -301,6 +301,14 @@ sub whatsNewDialog()
     m.scene.dialog = dialog
 end sub
 
+
+' Display Modified Settings dialog to user with an OK button
+sub modifiedSettingsDialog()
+    dialog = createObject("roSGNode", "ModifiedSettingsDialog")
+    dialog.observeField("buttonSelected", "dismissDialog")
+    m.scene.dialog = dialog
+end sub
+
 '
 ' Display dialog to user with an OK button
 sub settingDialog(title)

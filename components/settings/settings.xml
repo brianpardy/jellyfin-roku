@@ -4,6 +4,7 @@
 
     <Text id="path" translation="[95, 175]" font="font:SmallestBoldSystemFont" />
     <MultiStyleLabel id="version" translation="[95, 1000]" />
+    <MultiStyleLabel id="modifiedSettings" translation="[445, 1000]" />
 
     <LabelList
       translation="[120, 250]"

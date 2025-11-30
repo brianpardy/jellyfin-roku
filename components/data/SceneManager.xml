@@ -10,6 +10,7 @@
     <function name="userMessage" />
     <function name="standardDialog" />
     <function name="whatsNewDialog" />
+    <function name="modifiedSettingsDialog" />
     <function name="remoteSubtitleDialog" />
     <function name="radioDialog" />
     <function name="settingDialog" />
