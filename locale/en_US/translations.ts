@@ -1683,6 +1683,10 @@
             <translation>What's New</translation>
         </message>
         <message>
+            <source>Modified Settings</source>
+            <translation>Modified Settings</translation>
+        </message>
+        <message>
             <source>Skip</source>
             <translation>Skip</translation>
         </message>
